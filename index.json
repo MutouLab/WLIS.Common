@@ -1,0 +1,25 @@
+{
+  "name": "MutouLab VPM Repository",
+  "author": "MutouLab",
+  "url": "https://mutoulab.github.io/MutouLab.WLIS.Common/index.json",
+  "packages": {
+    "com.mutoulab.wlis-common": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.mutoulab.wlis-common",
+          "version": "0.1.0",
+          "displayName": "WLIS Common",
+          "description": "World Linked Item System の共通ライブラリ。暗号プリミティブ、ユーティリティ、ツール共有コードを含む。",
+          "unity": "2022.3",
+          "author": {
+            "name": "MutouLab",
+            "url": "https://github.com/MutouLab"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/MutouLab/MutouLab.WLIS.Common/releases/download/v0.1.0/com.mutoulab.wlis-common-0.1.0.zip",
+          "zipSHA256": "c04100cb94aa42f3415637c74e26f1a92f16c309e3720efb705c1efbf8afe033"
+        }
+      }
+    }
+  }
+}
