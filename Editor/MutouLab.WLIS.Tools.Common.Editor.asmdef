@@ -1,0 +1,18 @@
+{
+    "name": "MutouLab.WLIS.Tools.Common.Editor",
+    "rootNamespace": "MutouLab.WLIS.Tools.Common.Editor",
+    "references": [
+        "GUID:cc36bab6dbee8a44a89e9d51ccca0ce8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
