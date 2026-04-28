@@ -1,7 +1,7 @@
 {
   "name": "MutouLab VPM Repository",
   "author": "MutouLab",
-  "url": "https://mutoulab.github.io/MutouLab.WLIS.Common/index.json",
+  "url": "https://mutoulab.github.io/WLIS.Common/index.json",
   "packages": {
     "com.mutoulab.wlis-common": {
       "versions": {
@@ -16,7 +16,7 @@
             "url": "https://github.com/MutouLab"
           },
           "vpmDependencies": {},
-          "url": "https://github.com/MutouLab/MutouLab.WLIS.Common/releases/download/v0.1.0/com.mutoulab.wlis-common-0.1.0.zip",
+          "url": "https://github.com/MutouLab/WLIS.Common/releases/download/v0.1.0/com.mutoulab.wlis-common-0.1.0.zip",
           "zipSHA256": "c04100cb94aa42f3415637c74e26f1a92f16c309e3720efb705c1efbf8afe033"
         }
       }
