@@ -23,5 +23,5 @@ WorldSide / AvatarSide 両プロジェクトが共有する暗号プリミティ
 
 ### VCC / manifest.json
 ```json
-"com.mutoulab.wlis-common": "https://github.com/MutouLab/MutouLab.WLIS.Common.git"
+"com.mutoulab.wlis-common": "https://github.com/MutouLab/WLIS.Common.git"
 ```
