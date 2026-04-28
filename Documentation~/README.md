@@ -21,7 +21,8 @@ WorldSide / AvatarSide 両プロジェクトが共有する暗号プリミティ
 
 ## インストール
 
-### VCC / manifest.json
-```json
-"com.mutoulab.wlis-common": "https://github.com/MutouLab/WLIS.Common.git"
+### VCC (VRChat Creator Companion)
+以下のURLをVCCのリポジトリに追加してください：
+```
+https://mutoulab.github.io/WLIS.Common/index.json
 ```
