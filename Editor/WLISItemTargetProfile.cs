@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
+using UnityEngine.Serialization;
 
 using MutouLab.WLIS.Common;
 
@@ -26,8 +27,9 @@ namespace MutouLab.WLIS.Tools.Common.Editor
         public PayloadInputMode[] PayloadTypes;
 
         [Header("Crypto Keys (For Item Creator)")]
-        [Tooltip("MAC生成用の共有鍵 (TEA等)")]
-        public string SharedKeyC = "";
+        [Tooltip("MAC生成用のクリエイター鍵 (TEA等)")]
+        [FormerlySerializedAs("SharedKeyC")]
+        public string SharedCreatorKey = "";
 
         [Tooltip("ECDSA署名用の秘密鍵 (Tier1用 / Hex形式)")]
         public string EcdsaPrivateKeyHex = "";

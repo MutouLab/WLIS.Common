@@ -1,3 +1,15 @@
-// ConflictResolveModeの正規定義はUdonSharpランタイム内に移設済み。
-// MutouLab.WLIS.Core.UdonSharp.ApplicationLayer.ConflictResolveMode を参照してください。
-// このファイルはアセンブリの互換性のため空で維持しています。
+namespace MutouLab.WLIS.Common
+{
+    /// <summary>
+    /// ペイロードデータの競合時の解決方法。
+    /// エディタツール間の共有定義。Udonランタイム側にも同一定義あり。
+    /// </summary>
+    public enum ConflictResolveMode
+    {
+        Override,
+        Add,
+        Min,
+        Max,
+        Multiply,
+    }
+}
