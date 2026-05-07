@@ -17,7 +17,7 @@
           },
           "vpmDependencies": {},
           "url": "https://github.com/MutouLab/WLIS.Common/releases/download/v0.1.1/com.mutoulab.wlis-common-0.1.1.zip",
-          "zipSHA256": "2be3da59b05906d531aac5d4a558de9d6799f05faeb21c42c03b7c372df92f2c"
+          "zipSHA256": "78d124ab7f1c6743082e2a50e3e3a8e0007a32de888b488231b07b3ebe3d6d65"
         },
         "0.1.0": {
           "name": "com.mutoulab.wlis-common",
