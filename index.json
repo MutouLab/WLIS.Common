@@ -5,6 +5,20 @@
   "packages": {
     "com.mutoulab.wlis-common": {
       "versions": {
+        "0.1.1": {
+          "name": "com.mutoulab.wlis-common",
+          "version": "0.1.1",
+          "displayName": "WLIS Common",
+          "description": "World Linked Item System の共通ライブラリ。暗号プリミティブ、ユーティリティ、ツール共有コードを含む。",
+          "unity": "2022.3",
+          "author": {
+            "name": "MutouLab",
+            "url": "https://github.com/MutouLab"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/MutouLab/WLIS.Common/releases/download/v0.1.1/com.mutoulab.wlis-common-0.1.1.zip",
+          "zipSHA256": "2be3da59b05906d531aac5d4a558de9d6799f05faeb21c42c03b7c372df92f2c"
+        },
         "0.1.0": {
           "name": "com.mutoulab.wlis-common",
           "version": "0.1.0",
